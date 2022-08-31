@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @imadelcass
-- 👀 I’m interested in web develepment
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking for work as web developer 
-- 📫 How to reach me => https://www.linkedin.com/in/imad-elcass/
+- 👋 Hi, I’m @imadelcass.
+- 👀 Web developer.
+- 📫 How to reach me => https://www.linkedin.com/in/imad-elcass
