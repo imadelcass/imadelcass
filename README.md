@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @imadelcass.
+- 👋 Hi, I’m imadelcass.
 - 👀 Web developer.
 - 📫 How to reach me => https://www.linkedin.com/in/imad-elcass
